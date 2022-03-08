@@ -1,5 +1,5 @@
 <p align="center">
-  <img  alt="Unity Logo" title="Unity Logo" src=".github/readme/Unity_logo.svg" />
+  <img  width="30%" alt="Unity Logo" title="Unity Logo" src=".github/readme/DP_brand_logo_unity.gif" />
 </p>
 
 <h1 align="center">
