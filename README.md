@@ -1,9 +1,9 @@
 <p align="center">
-  <img  alt="Unity Logo" title="Unity Logo" src=".github/readme/Unity_logo.svg" />
+  <img  width="30%" alt="Unity Logo" title="Unity Logo" src=".github/readme/DP_brand_logo_unity.gif" />
 </p>
 
 <h1 align="center">
- User Collection Data Unity API
+ Unity: User Data Collection with Database API
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Alquipo/userCollectionDataUnity-api">
 
   <a href="https://www.linkedin.com/in/alquiponeto/">
-      <img alt="Made by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
+      <img alt="Template by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
   </a>
 
   <a href="https://github.com/Alquipo/dragoongames-web/commits/master">
@@ -42,7 +42,7 @@
     <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 
-  <a target="_blank" href="https://unity.com/pt">
+  <a target="_blank" href="https://unity.com">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   </a>
 
@@ -50,10 +50,9 @@
 
 </p>
 
-## 🚀 Sobre o Projeto
+## 🚀 About the Project
 
-
-
+API to manage a Database implemented in games created by Lehigh RiVR Immersive Learning using Unity.
 
 <!-- ## 🎖️ Milestone
 
@@ -99,7 +98,7 @@ d
 
 <br/> -->
 
-## 🔨 Tecnologias:
+## 🔨 Technologies:
 
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[NodeJS](https://nodejs.org/en)**
@@ -108,73 +107,78 @@ d
 - **[MongoDB](https://www.mongodb.com/)**
 
 
-## 🔎 Comandos
+## 🔎 Commands
 
-- `dev`: Inicia um servidor como ambiente de dev `localhost:3333`
-- `build`: Cria a Build do projeto
-- `start`: Inicia um servidor simples com o código de produção
+- `dev`: Starts a server as a DEV environment `localhost:3333`
+- `build`: Creates a project BUILD
+- `start`: Starts a simple server with the PRODUCTION code
 
-## 🚀 Como rodar este projeto
+## 🚀 How to run this project
 
-Para clonar e executar este aplicativo, você precisará de [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/) Instalado em seu computador.
+To clone and execute this application, you will need to have [Git](https://git-scm.com), [NodeJs](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/) installed in your computer.
 
-### 🌀 Clonando o repositório
+### 🌀 Cloning the repository
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/Alquipo/userCollectionDataUnity-api
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in terminal/cmd
 $ cd userCollectionDataUnity-api
 ```
 
-### 🎲 Rodando a Aplicação
+### 🎲 Running the Application
 
 ```bash
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a Aplicação em Desenvolvimento
+# Execute the Application in DEVELOPMENT
 $ npm run dev
 
-# O servidor iniciará na porta:3333 - acesse http://localhost:3333
+# The server will start in port:3333 
+- Access http://localhost:3333 
 
 ```
+http://localhost:3333 (this link is clickable 😉)
 
-### 💾 Comandos Úteis
+### 💾 Useful Commands
 
 ```bash
-#Gerar a build da aplicação
+#GENERATE the application build
 $ npm run build
 
-#Executar a build da aplicação
+#ECECUTE the application build
 $ npm run start
 
 ```
 
-### 📁 Configuração .ENV
+### 📁 .ENV Settings
 
 ```bash
-#adicionado .env.example no projeto, lembrar de adicionar as variáveis de ambiente conforme o exemplo
+#added .env.example in the project. REMEMBER to add the environment variables according to the example below
 
-# Exemplo de localização do banco de dados
+# Example of a database location
 MONGODB_URI=mongodb+srv://<Username>:<Password>@cluster0.sv24h.mongodb.net/<DatabaseName>?retryWrites=true&w=majority
 
 
 ```
 
-## 🤔 Como contribuir para o projeto
+## 🤔 How to contribute to this project
 
-- Faça um **fork** do projeto;
-- Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-- Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
-- Envie as suas alterações: `git push origin my-feature`
+- Make a **fork** of this project;
+- Create a new **branch** with your modifications: `git checkout -b my-feature`
+- Save the changes and type a short commit message describing what you have done: `git commit -m "feature: My new feature"`
+- Send your modifications: `git push origin my-feature`
 
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+> In case of doubt, check this tutorial out! [Guide: how to contribute in GitHub](https://github.com/firstcontributions/first-contributions)
 
-## 📝 Licença
+## 📝 License
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
+This project is under the MIT lincese. Visit [LICENSE](https://opensource.org/licenses/MIT) to learn more about it.
 
-Feito com ❤️ por Alquipo Neto 👋🏽 [Entre em contato!](https://www.linkedin.com/in/alquiponeto/)
+Translation made by [Junior](https://www.linkedin.com/in/rmajunior/) 🐼
+
+_______________________________________________________________________
+Documentation template made with ❤️ by Alquipo Neto 👋🏽 [Get in touch!](https://www.linkedin.com/in/alquiponeto/)
