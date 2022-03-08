@@ -138,9 +138,10 @@ $ npm install
 $ npm run dev
 
 # The server will start in port:3333 
-- Access http://localhost:3333 (this link is clickable 😉)
+- Access http://localhost:3333 
 
 ```
+http://localhost:3333 (this link is clickable 😉)
 
 ### 💾 Useful Commands
 
@@ -168,7 +169,7 @@ MONGODB_URI=mongodb+srv://<Username>:<Password>@cluster0.sv24h.mongodb.net/<Data
 
 - Make a **fork** of this project;
 - Create a new **branch** with your modifications: `git checkout -b my-feature`
-- Save the changes and type a short commit message describing what you have done:`git commit -m "feature: My new feature"`
+- Save the changes and type a short commit message describing what you have done: `git commit -m "feature: My new feature"`
 - Send your modifications: `git push origin my-feature`
 
 > In case of doubt, check this tutorial out! [Guide: how to contribute in GitHub](https://github.com/firstcontributions/first-contributions)
