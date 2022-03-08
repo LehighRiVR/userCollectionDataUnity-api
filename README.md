@@ -42,7 +42,7 @@
     <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 
-  <a target="_blank" href="https://unity.com/pt">
+  <a target="_blank" href="https://unity.com">
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   </a>
 
@@ -51,6 +51,8 @@
 </p>
 
 ## 🚀 About the Project
+
+API to manage a Database implemented in games created by Lehigh RiVR Immersive Learning using Unity.
 
 <!-- ## 🎖️ Milestone
 
