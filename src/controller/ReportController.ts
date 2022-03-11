@@ -36,6 +36,14 @@ class ReportController {
           label: 'Quiz 5',
           value: 'q5'
         },
+        {
+          label: 'Quiz 6',
+          value: 'q6'
+        },
+        {
+          label: 'Quiz 7',
+          value: 'q7'
+        },
 
       ];
 
